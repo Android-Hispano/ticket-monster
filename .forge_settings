@@ -4,7 +4,7 @@
 <rest>
 <applicationclass>
 <package>android.hispano.ejemplos.ticketmonster.rest</package>
-<name>/home/serinux/workspace/ticket-monster/src/main/java/android/hispano/ejemplos/ticketmonster/rest/JaxRsActivator.java</name>
+<name>/home/user/workspace/ticket-monster/src/main/java/android/hispano/ejemplos/ticketmonster/rest/JaxRsActivator.java</name>
 </applicationclass>
 </rest>
 </configuration>
