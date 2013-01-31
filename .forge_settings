@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+<rootpath>"/rest"</rootpath>
+<rest>
+<applicationclass>
+<package>android.hispano.ejemplos.ticketmonster.rest</package>
+<name>/home/serinux/workspace/ticket-monster/src/main/java/android/hispano/ejemplos/ticketmonster/rest/JaxRsActivator.java</name>
+</applicationclass>
+</rest>
+</configuration>
